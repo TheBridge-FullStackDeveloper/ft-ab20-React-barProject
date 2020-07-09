@@ -1,0 +1,19 @@
+.item {
+    height: 100px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+}
+
+.item .price {
+    margin-right: 50px;
+}

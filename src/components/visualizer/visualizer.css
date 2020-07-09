@@ -1,0 +1,7 @@
+.visualizer {
+    margin: 10px auto;
+    max-width: 500px;
+    height: CALC(100vh - 20px);
+    /* background-color: #333;   */
+    border-radius: 30px;
+}

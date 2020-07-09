@@ -1,0 +1,53 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name": "Cocktail",
+            "price": 15,
+            "img": "IMG/Cocktail.png",
+            "alt": "Imágen de un cocktail"
+        },
+        {
+            "id": 1,
+            "name": "Doble",
+            "price": 3,
+            "img": "IMG/Doble.png",
+            "alt": "Imágen de un doble"
+        },
+        {
+            "id": 2,
+            "name": "Jarra",
+            "price": 5,
+            "img": "IMG/Jarra.png",
+            "alt": "Imágen de una jarra"
+        },
+        {
+            "id": 3,
+            "name": "Tercio",
+            "price": 2,
+            "img": "IMG/Tercio.png",
+            "alt": "Imágen de un tercio"
+        },
+        {
+            "id": 4,
+            "name": "Tinto de verano",
+            "price": 3.5,
+            "img": "IMG/TintoDeVerano.png",
+            "alt": "Imágen de un tinto de verano"
+        },
+        {
+            "id": 5,
+            "name": "Vino blanco",
+            "price": 3,
+            "img": "IMG/VinoBlanco.png",
+            "alt": "Imágen de un vino blanco"
+        },
+        {
+            "id": 6,
+            "name": "Vino tinto",
+            "price": 3,
+            "img": "IMG/VinoTinto.png",
+            "alt": "Imágen de un vino tinto"
+        }
+    ]
+}
